@@ -78,7 +78,7 @@
         };
 
         screenshot {
-            bindings = <&kp F5>;
+            bindings = <&kp F2>;
             key-positions = <61 5>;
         };
     };
